@@ -19,7 +19,7 @@ Christina Ko: Soft Dev Projects
 ####Team Members:
  Lise Ho, Ivy Wong
 ####Description:
-...
+Using the Ebay and Amazon api's, we created a website that would compare prices of the searched item.
 ####Link:https://github.com/koprty/API-Project
 
 ##Mini Projects
