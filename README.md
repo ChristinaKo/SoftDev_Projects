@@ -27,9 +27,11 @@ Using the Ebay and Amazon api's, we created a website that would compare prices 
    * Christina Ko, Angela Lin
    * Project located: /7/intro-proj1/Christina-Angela
  * regexp
-   * Christna Ko, Issac Gluck, Leslie Bresnahan
+   * Christina Ko, Issac Gluck, Leslie Bresnahan
    * Project located: /7/regexp/Isaac-Christina-Leslie
  * mongoproj
    * Christina Ko, Angela Lin
    * Project located: /7/mongoproj/angela-christina
-   
+ * to do list
+   * Christina Ko  
+   * Project located: /7/todo/christina-ko/ 
