@@ -34,4 +34,7 @@ Using the Ebay and Amazon api's, we created a website that would compare prices 
    * Project located: /7/mongoproj/angela-christina
  * to do list
    * Christina Ko  
-   * Project located: /7/todo/christina-ko/ 
+   * Project located: /7/todo/christina-ko/
+ * find the invisible rudolph
+   * Christina Ko, Angela Lin
+   * Project located: /7/cow/angela-christina
