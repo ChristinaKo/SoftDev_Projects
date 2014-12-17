@@ -3,6 +3,8 @@ Christina Ko: Soft Dev Projects
 
 #Fall Semester: Period 7
 ##Main Projects
+###FINAL PROJECT:
+####Link: https://github.com/ChristinaKo/SoftDev_Final
 ###Project 1: the google project
 ####Team Members:
  Richard Zhan, Kyler Chase, Max Zhou
