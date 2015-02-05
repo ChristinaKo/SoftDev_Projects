@@ -4,6 +4,8 @@ Christina Ko: Soft Dev Projects
 #Fall Semester: Period 7
 ##Main Projects
 ###FINAL PROJECT:
+####Team Members: Lise Ho and Angela Lin
+####Descriptiom: FoodMe! Is a recipe searching website. On this site you can search for any recipe and also get nutrition facts. 
 ####Link: https://github.com/ChristinaKo/SoftDev_FoodMe
 ###Project 1: the google project
 ####Team Members:
